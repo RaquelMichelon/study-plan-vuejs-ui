@@ -62,11 +62,13 @@ This is an UI developed in Vue.js to integrate with an API to create personalize
 
 ### Screenshots
 
-![](pg1.png)
+![](initial.png)
+
+![](search.png)
 
 ![](pg2.png)
 
-![](pg3.png)
+![](pg4.png)
 
 ## :memo: Licença
 
