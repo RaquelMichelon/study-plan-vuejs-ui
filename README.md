@@ -66,9 +66,9 @@ This is an UI developed in Vue.js to integrate with an API to create personalize
 
 ![](search.png)
 
-![](pg2.png)
+![](theplan.png)
 
-![](pg4.png)
+![](validate.png)
 
 ## :memo: Licença
 
