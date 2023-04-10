@@ -25,6 +25,13 @@ UI to integrate with the Study Plan Generator API <br/>
 
 ### Project setup
 
+<br>
+
+> Note! After clone the project and before run it, make sure to run the API for where this UI will fetch data. You can use the one I built [here](https://github.com/RaquelMichelon/study-plan-generator-api). To request the data successfully, you maybe will have to change the url requested inside the createPlan method in the App.vue file.
+
+<br>
+
+
 ```
 yarn install
 ```
